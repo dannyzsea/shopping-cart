@@ -3,10 +3,12 @@ import "./App.css";
 
 function App() {
   return (
-    <div className="app">
+    <div className="grid-container">
       <header>
         <a href="/">React Shopping</a>
       </header>
+      <main>Products</main>
+      <footer>All right Reserved</footer>
     </div>
   );
 }
