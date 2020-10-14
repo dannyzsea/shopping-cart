@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "id": "shirtA",
+      "title": "shirtA",
+      "image": "https://pngimg.com/uploads/tshirt/tshirt_PNG5449.png",
+      "description": "about ShirtA",
+      "price": 25,
+      "availabeSizes": ["S", "M", "L", "XL", "XXL"]
+    },
+    {
+      "id": "shirtA",
+      "title": "shirtA",
+      "image": "https://pngimg.com/uploads/tshirt/tshirt_PNG5449.png",
+      "description": "about ShirtA",
+      "price": 25,
+      "availabeSizes": ["S", "M", "L", "XL", "XXL"]
+    },
+    {
+      "id": "shirtA",
+      "title": "shirtA",
+      "image": "https://pngimg.com/uploads/tshirt/tshirt_PNG5449.png",
+      "description": "about ShirtA",
+      "price": 25,
+      "availabeSizes": ["S", "M", "L", "XL", "XXL"]
+    },
+    {
+      "id": "shirtA",
+      "title": "shirtA",
+      "image": "https://pngimg.com/uploads/tshirt/tshirt_PNG5449.png",
+      "description": "about ShirtA",
+      "price": 25,
+      "availabeSizes": ["S", "M", "L", "XL", "XXL"]
+    }
+  ]
+}
