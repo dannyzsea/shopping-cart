@@ -109,3 +109,14 @@ footer {
 a {
   text-decoration: none;
 }
+
+.filter {
+  display: flex;
+  padding: 1rem;
+  padding: 1rem;
+  border-bottom: 0.2rem #c0c0c0 solid;
+  justify-content: space-between;
+}
+.filter div {
+  flex: 1;
+}
