@@ -26,7 +26,7 @@ class App extends Component {
       });
     }
   };
-  filterProducts(size) {}
+  filterProducts(event) {}
   render() {
     return (
       <div className="grid-container">

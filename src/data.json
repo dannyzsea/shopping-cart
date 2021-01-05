@@ -14,7 +14,7 @@
       "image": "https://starpng.com/public/uploads/preview/tshirt-png-t-shirt-png-transparent-image-1024x1379-101576783475dkxtn76olt.png",
       "description": "about ShirtA",
       "price": 25,
-      "availabeSizes": ["S", "M", "L", "XL", "XXL"]
+      "availabeSizes": ["S", "M", "L"]
     },
     {
       "id": "shirtA",
@@ -22,7 +22,7 @@
       "image": "https://www.pngkit.com/png/detail/90-906783_free-transparent-background-images-white-polo-t-shirt.png",
       "description": "about ShirtA",
       "price": 25,
-      "availabeSizes": ["S", "M", "L", "XL", "XXL"]
+      "availabeSizes": ["S", "M", "L", "XL"]
     },
     {
       "id": "shirtA",
@@ -30,7 +30,7 @@
       "image": "https://www.seekpng.com/png/small/134-1341358_free-png-sky-blue-t-shirt-png-images.png",
       "description": "about ShirtA",
       "price": 25,
-      "availabeSizes": ["S", "M", "L", "XL", "XXL"]
+      "availabeSizes": ["L", "XL", "XXL"]
     }
   ]
 }
